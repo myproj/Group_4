@@ -4,7 +4,7 @@ using namespace std;
 int factorial(int n){
 	if(n<0)
 	{
-		cout<<"Enter a positive number\n";
+		cout<<"Enter a positive number plz\n";
 		cin>>n;
 		factorial(n);
 	}
